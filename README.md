@@ -21,7 +21,7 @@
 
 ---
 
-## 📌 About the Project
+##  About the Project
 
 **AgroML** is an intelligent agricultural decision-support system powered by Machine Learning. It helps farmers make data-driven decisions by:
 
@@ -158,14 +158,6 @@ Raw Data
 
 *Points closely follow the perfect prediction diagonal (R² = 0.98).*
 
-### Feature Importance — Classification
-
-<p align="center">
-  <img src="assets/feature_importance_clf.png" alt="Feature Importance Classification" width="500"/>
-</p>
-
-*N, P, K are the most discriminating features, followed by pH and climate variables — consistent with agronomic knowledge.*
-
 ### Feature Importance — Regression
 
 <p align="center">
@@ -197,6 +189,11 @@ Raw Data
 </p>
 
 *Users input soil composition (N, P, K, pH), climate conditions, country (212 available), and year (1961–2030).*
+
+### Resulte Page
+<p align="center">
+  <img src="assets/ui_result.png" alt="Prediction Page" width="700"/>
+</p>
 
 ### Dashboard
 <p align="center">
@@ -290,7 +287,7 @@ category_encoders
 
 ---
 
-## 📜 License
+## 📜 Master
 
 This project was developed for academic purposes at **Université Hassan II de Casablanca — FSBM**.
 
