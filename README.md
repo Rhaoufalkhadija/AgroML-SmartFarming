@@ -197,7 +197,10 @@ Raw Data
 
 ### Dashboard
 <p align="center">
-  <img src="assets/ui_dashboard.png" alt="Dashboard" width="700"/>
+  <img src="assets/ui_dashboard1.png" alt="Dashboard" width="700"/>
+</p>
+<p align="center">
+  <img src="assets/ui_dashboard2.png" alt="Dashboard" width="700"/>
 </p>
 
 *Includes: crop distribution pie chart, average yield per crop, yield trend 1961–2016, agroclimatic radar chart.*

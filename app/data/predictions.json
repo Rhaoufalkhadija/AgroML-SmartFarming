@@ -1,5 +1,27 @@
 [
   {
+    "id": 1782396635.919506,
+    "date": "2026-06-25 15:10:35",
+    "crop": "jute",
+    "crop_display": "Jute",
+    "icon": "\ud83c\udf3e",
+    "confidence": 65.0,
+    "yield_tha": 2.36,
+    "yield_hgha": 23600,
+    "reg_crop": "Soybeans",
+    "rating": 2,
+    "rating_label": "Moyen",
+    "country": "Morocco",
+    "year": 2016,
+    "N": 90.0,
+    "P": 42.0,
+    "K": 43.0,
+    "temperature": 25.0,
+    "humidity": 75.0,
+    "ph": 6.5,
+    "rainfall": 200.0
+  },
+  {
     "id": 1782395134.16305,
     "date": "2026-06-25 14:45:34",
     "crop": "jute",
